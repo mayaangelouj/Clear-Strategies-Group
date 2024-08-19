@@ -1,3 +1,3 @@
 # Clear-Strategies-Group
-#Website for Clear Strategies  Group, LLC
-<h1>Calvin Anderson</h1>
+Website for Clear Strategies  Group, LLC
+<h3>Calvin Anderson</h3>
